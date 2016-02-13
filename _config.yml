@@ -1,28 +1,40 @@
-name: Coastlens
-favicon: null
 layout_spectrum: 0.02591054909862578
-typography_spectrum: 0.49631412979215384
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8662727
+  brandStrength: 0.03184946672990918
+  lightness: 0.5408163
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.03184946672990918
-  lightness: 0.043769427575170994
-  saturation: 0.6756911969278008
-  rhythmicContrast: 0.8900398106779903
-purpose: []
+  rhythmicContrast: 0.4957035
+typography_spectrum: 0.4963141297921538
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Coastlens
