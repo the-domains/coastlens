@@ -1,4 +1,7 @@
-layout_spectrum: 0.02591054909862578
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#3A6EA5'
     - '#004E98'
   rhythmicContrast: 0.4957035
-typography_spectrum: 0.4963141297921538
+typography_spectrum: 0.4484425
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.933942
 favicon: null
 name: Coastlens
